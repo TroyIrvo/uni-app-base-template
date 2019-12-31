@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/plugins/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap52.json"
+}
